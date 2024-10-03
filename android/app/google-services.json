@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1079613849458",
+    "firebase_url": "https://orca-26f8d-default-rtdb.firebaseio.com",
+    "project_id": "orca-26f8d",
+    "storage_bucket": "orca-26f8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079613849458:android:a651c5d9dc477db4bea7eb",
+        "android_client_info": {
+          "package_name": "com.example.orca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079613849458-dskg5m6tdutip5tk0o8o46cv56lh7ubh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.orca",
+            "certificate_hash": "14c01f7f9469f39bf6287bfa31b1965f15f1449d"
+          }
+        },
+        {
+          "client_id": "1079613849458-l9eui0vked482oqlr7c4f73ahe0ugnjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJzNejhacWhvSc7iRwxeOoQLjuXt0jkrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079613849458-l9eui0vked482oqlr7c4f73ahe0ugnjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
